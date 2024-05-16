@@ -7,7 +7,6 @@
 
 - 🚀 When I'm bored or in my free time, I work on **Python projects**
 
-- 🔥 Upcoming Repositories : **Discord MassDM (Captcha Solver)** & **A Lot Of Account Checkers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
