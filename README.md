@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clyde</h1>
 <h3 align="center">I am a Python, Javascript. Developper.</h3>
 
-- 🛠️ I’m currently working on **Bot xD**
+- 🛠️ I’m currently working on **idk**
 
-- 🌱 I’m currently learning **𝐂# & C++**
+- 🌱 I’m currently learning **nothing because idk**
 
 - 🚀 When I'm bored or in my free time, I work on **Python projects**
 
