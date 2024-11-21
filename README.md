@@ -28,6 +28,9 @@
   </a>
 </p>
 
+## 🌐 Socials 2:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1075185352177897542)](https://discord.com/users/1075185352177897542)
+
 ---
 
 ### 💻 **Languages and Tools**:
