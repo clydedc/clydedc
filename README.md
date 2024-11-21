@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ **Current Work**:
-- 🔧 Working on the **[Nothing Repo](#)** (add the link to your repo here)
+- 🔧 Working on the **[Nothing Repo](#)** (nothing here)
 
 ### 🌱 **Learning Journey**:
 - 📘 Improving my skills in **Python**, constantly exploring new challenges.
