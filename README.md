@@ -1,28 +1,60 @@
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/attachments/1306691003213938719/1308778921961193515/telechargement.jpg?ex=673fd79a&is=673e861a&hm=4fe2c823bf472c62ca2069f66cb6d5ec781f1cee387d593039bc0dbce7e80317&" alt="Clyde Banner" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Clyde</h1>
-<h3 align="center">I am a Python, Javascript. Developper.</h3>
+<h3 align="center">Passionate Python & JavaScript Developer 🚀</h3>
 
-- 🛠️ I’m currently working on **cctools repo**
+---
 
-- 🌱 I’m currently learning **python because im not a pro**
+### 🛠️ **Current Work**:
+- 🔧 Working on the **[Nothing Repo](#)** (add the link to your repo here)
 
-- 🚀 When I'm bored or in my free time, I work on **Python projects**
+### 🌱 **Learning Journey**:
+- 📘 Improving my skills in **Python**, constantly exploring new challenges.
 
+### 🚀 **Free Time**:
+- ✨ Experimenting with creative **Python projects** to enhance my problem-solving skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://youtube.com/channel/UC4vJgHvruxP7fq-Fyoegz3A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Clyde" height="30" width="40" /></a>
-<a href="https://discord.gg/Wz7UdFNhaY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+---
+
+### 🌐 **Connect With Me**:
+<p align="center">
+  <a href="https://youtube.com/channel/UC4vJgHvruxP7fq-Fyoegz3A" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Clyde YouTube" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/Wz7UdFNhaY" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 💻 **Languages and Tools**:
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 📈 **Profile Stats**:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=clydedcc&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/clydedc?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/clydedc?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="GitHub Stars">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/clydedc?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/clydedc?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
-</p>
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Feel free to explore my repositories. ✨</h3>
