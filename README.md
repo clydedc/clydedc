@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ **Current Work**:
-- 🔧 Working on the **[Nothing Repo](#)** (nothing here)
+- 🔧 Working on the **[SecurCore project for 2025](#)** (nothing here)
 
 ### 🌱 **Learning Journey**:
 - 📘 Improving my skills in **Python**, constantly exploring new challenges.
@@ -23,7 +23,7 @@
   <a href="https://youtube.com/channel/UC4vJgHvruxP7fq-Fyoegz3A" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Clyde YouTube" height="40" width="40" />
   </a>
-  <a href="https://discord.gg/clydefr" target="_blank">
+  <a href="https://discord.gg/4SrGTgkTsq" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
