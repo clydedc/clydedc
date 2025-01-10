@@ -83,10 +83,10 @@
 ### 📂 **Pinned Repositories**:
 <p align="center">
   <a href="https://github.com/clydedc/your-repo-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=SecurCore-1&theme=radical" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=cctools -1&theme=radical" alt="Repo 1" />
   </a>
   <a href="https://github.com/clydedc/your-repo-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=OpenSpy-2&theme=radical" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=rankbot -2&theme=radical" alt="Repo 2" />
   </a>
 </p>
 
