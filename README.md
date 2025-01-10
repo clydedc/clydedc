@@ -26,7 +26,7 @@
   <a href="https://discord.gg/4SrGTgkTsq" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
-  <a href="https://twitter.com/YourUsername" target="_blank">
+  <a href="https://twitter.com/clyde211dsc" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
 </p>
