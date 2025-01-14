@@ -57,6 +57,12 @@
 
 ---
 
+### Databases
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 ### 📈 **Profile Stats**:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=clydedcc&countColor=%23FF0000" alt="Profile Views">
