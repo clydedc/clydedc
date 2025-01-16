@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ **Current Work**:
-- 🔧 Working on the **[OpenSpy](#https://github.com/clydedc/OpenSpy)**
+- 🔧 Working on the **[OpenSpy](https://github.com/clydedc/OpenSpy)**
 
 ### 🌱 **Learning Journey**:
 - 📘 Improving my skills in **Python**, constantly exploring new challenges.
