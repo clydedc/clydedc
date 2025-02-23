@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19982564-ff29-440f-a713-4d6a39d53a60/dewbzyu-12b6cdc4-5132-4e92-a753-e9fc54dcb393.gif?" alt="Clyde Banner" />
+  <img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19982564-ff29-440f-a713-4d6a39d53a60/dewbzyu-12b6cdc4-5132-4e92-a753-e9fc54dcb393.gif?](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19982564-ff29-440f-a713-4d6a39d53a60/dewbzyu-12b6cdc4-5132-4e92-a753-e9fc54dcb393.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5OTgyNTY0LWZmMjktNDQwZi1hNzEzLTRkNmEzOWQ1M2E2MFwvZGV3Ynp5dS0xMmI2Y2RjNC01MTMyLTRlOTItYTc1My1lOWZjNTRkY2IzOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mwyYCBsQD-VJExYhcncpUPglWCY77zM5flxgfoXGZI4)" alt="Clyde Banner" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Clyde</h1>
