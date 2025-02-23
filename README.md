@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tenor.com/fr/view/gamesense-hv-h-csgo-gif-16143851" alt="Clyde Banner" />
+  <img src="https://media1.tenor.com/m/4YTygCqOBoEAAAAd/gamesense-hv-h.gif" alt="Clyde Banner" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Clyde</h1>
