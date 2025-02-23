@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/1339174143022596116/1341102817842036746/clyde_banner.png?ex=67b4c6d4&is=67b37554&hm=a6d55b517fd505daf4efa13252a9726c9d7e50eeec18c858cd0cfc4915d67f93" alt="Clyde Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1339174143022596116/1341102817842036746/clyde_banner.png?ex=67b4c6d4is=67b37554hm=a6d55b517fd505daf4efa13252a9726c9d7e50eeec18c858cd0cfc4915d67f93" alt="Clyde Banner" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Clyde</h1>
