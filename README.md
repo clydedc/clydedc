@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Current Work
-- 🚧 Actively working on [**OpenSpy**](https://github.com/clydedc/OpenSpy), an advanced dev tool for next-gen projects.
+- 🚧 Actively working on [**LFI SCANNER**](https://github.com/clydedc/lfi-scanner), an advanced dev tool for next-gen projects.
 
 ### 🌱 Learning Journey
 - 📘 Improving my Python skills and exploring modern backend stacks and automation workflows.
