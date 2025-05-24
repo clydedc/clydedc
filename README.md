@@ -7,18 +7,18 @@
 
 ---
 
-### 🛠️ Current Work
-- 🚧 Actively working on [**LFI SCANNER**](https://github.com/clydedc/lfi-scanner), an advanced dev tool for next-gen projects.
+### 🛠️ **Current Work**
+- 🚧 I'm currently focused on building [**LFI SCANNER**](https://github.com/clydedc/lfi-scanner), an advanced tool for developers tackling LFI vulnerabilities.
 
-### 🌱 Learning Journey
-- 📘 Improving my Python skills and exploring modern backend stacks and automation workflows.
+### 🌱 **Learning Journey**
+- 📘 Continuously improving my Python skills while diving deeper into backend technologies and automation pipelines.
 
-### 🚀 In My Free Time
-- 🎯 Building creative and problem-solving Python apps for fun and learning.
+### 🚀 **What I Do in My Free Time**
+- 🎯 Developing Python-based applications to challenge myself, solve problems, and learn new things.
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 **Let’s Connect!**
 <p align="center">
   <a href="https://youtube.com/channel/UC4vJgHvruxP7fq-Fyoegz3A" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
@@ -33,33 +33,31 @@
 
 ---
 
-### 💬 Discord Presence
+### 💬 **Discord Status**
 [![Discord Status](https://lanyard.cnrad.dev/api/1361691516086517803)](https://discord.com/users/1361691516086517803)
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 **My Tech Stack & Tools**
+
+#### **Languages & Frameworks:**
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Python, JavaScript" height="40" width="40" />
+</p>
+
+#### **Frontend & Backend:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="HTML, CSS, Node.js" height="40" width="40" />
+</p>
+
+#### **Tools & DevOps:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" height="40" width="40" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### 🗄️ **Databases**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -67,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clydedc&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=clydedc&theme=radical" height="180" />
@@ -75,7 +73,7 @@
 
 ---
 
-### 🔍 GitHub Insights
+### 🔍 **GitHub Insights**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clydedc&layout=compact&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clydedc&theme=radical" />
@@ -83,7 +81,7 @@
 
 ---
 
-### 📌 Pinned Repositories
+### 📌 **Pinned Repositories**
 <p align="center">
   <a href="https://github.com/clydedc/OpenSpy" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=OpenSpy&theme=radical" />
@@ -95,7 +93,7 @@
 
 ---
 
-### 📈 Profile Metrics
+### 📈 **Profile Metrics**
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=clydedc&countColor=%23FF0000" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/clydedc?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers">
@@ -104,4 +102,4 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Explore, contribute, and connect. Let's build cool stuff together! ✨</h3>
+<h3 align="center">✨ Thanks for visiting! Explore my work, contribute, and let's build awesome projects together! ✨</h3>
