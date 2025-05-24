@@ -42,7 +42,7 @@
 
 #### **Languages & Frameworks:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Python, JavaScript" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Python, JavaScript" height="100" width="100" />
 </p>
 
 #### **Frontend & Backend:**
