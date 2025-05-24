@@ -47,12 +47,12 @@
 
 #### **Frontend & Backend:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="HTML, CSS, Node.js" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="HTML, CSS, Node.js" height="100" width="100" />
 </p>
 
 #### **Tools & DevOps:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" height="100" width="100" />
 </p>
 
 ---
