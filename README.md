@@ -3,30 +3,22 @@
 </h1>
 
 <h2 align="center">👾 Salut, moi c’est Clyde</h2>
-<h3 align="center">🕶️ Développeur Python & JavaScript orienté Cybersécurité</h3>
-<p align="center"><i>Codeur de l’ombre, passionné par l’automatisation, le bug bounty et la détection de vulnérabilités.</i></p>
+<h3 align="center">💻 Développeur Fullstack passionné par la Cybersécurité</h3>
+<p align="center"><i>Créateur d'outils, chasseur de vulnérabilités, et bidouilleur dans l’âme.</i></p>
 
 ---
 
 ### ⚒️ Projets en cours
 - 🔍 Développement de [**LFI SCANNER**](https://github.com/clydedc/lfi-scanner) — outil d’analyse de failles LFI.
-- 🛠️ Création de scripts offensifs pour pentests & CTF.
+- 🛠️ Création de scripts offensifs, automations, bots & pentest tools.
 
 ---
 
-### 🧠 En pleine montée en compétence
-- 🐍 Python avancé
-- ☁️ DevOps & automatisation
-- 🔐 Offensive Security & Web Exploits
-
----
-
-### 🎮 Badges & Plateformes
-
-<p align="center">
-  <a href="https://tryhackme.com/p/ClydeSec"><img src="https://tryhackme-badges.s3.amazonaws.com/ClydeSec.png" alt="TryHackMe" height="35" /></a>
-  <a href="https://app.hackthebox.com/profile/222758"><img src="https://img.shields.io/badge/HackTheBox-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" /></a>
-</p>
+### 🧠 En évolution constante
+- 🐍 Python & JS avancés
+- 🖥️ Frontend & Backend (Fullstack Web Dev)
+- 🔐 Sécurité Web, CTF, Bug Bounty
+- ☁️ DevOps & automations
 
 ---
 
@@ -53,7 +45,7 @@
 ### 🧰 Stack & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,mongodb,mysql,docker,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,html,css,mongodb,mysql,docker,git,linux,bash" />
 </p>
 
 ---
@@ -99,4 +91,4 @@
 
 ---
 
-<h3 align="center">💻 Merci d’avoir visité mon profil. N’hésitez pas à explorer mes projets ou à collaborer 👾</h3>
+<h3 align="center">✨ Merci pour ta visite. Plonge dans mes projets ou propose une collaboration 🧠</h3>
