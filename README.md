@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.osinthub.fr/clyde_banner.png" alt="Clyde Banner" />
+  <img src="https://osinthub.site/Clyde_kig_kagenou.png" alt="Clyde Banner" />
 </h1>
 
 <h2 align="center">👾 Salut, moi c’est Clyde</h2>
