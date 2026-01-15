@@ -35,8 +35,8 @@
 ### 📡 Discord Live
 
 <p align="center">
-  <a href="https://discord.com/users/1361691516086517803">
-    <img src="https://lanyard.cnrad.dev/api/1361691516086517803?bg=1e1e1e&borderRadius=10px" />
+  <a href="https://discord.com/users/293438372322476033">
+    <img src="https://lanyard.cnrad.dev/api/293438372322476033?showDisplayName=true&idleMessage=Contact%20me%20if%20you%20want&theme=dark" />
   </a>
 </p>
 
