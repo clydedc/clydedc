@@ -17,7 +17,7 @@
 
 ### About
 
-- Building [**RootSec**](https://github.com/clydedc/0xRootSec) — a CTF platform with ELO ranking, challenges, and community features.
+- Building [**RootSec**](https://github.com/0xRootSec) — a CTF platform with ELO ranking, challenges, and community features.
 - Created [**LFI Scanner**](https://github.com/clydedc/lfi-scanner) — an automated Local File Inclusion vulnerability scanner.
 - Interested in offensive security, web exploitation, CTFs, and bug bounty.
 
