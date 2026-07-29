@@ -35,12 +35,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clydedc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=clydedc&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=clydedc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=clydedc&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clydedc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=clydedc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <br>
@@ -49,19 +49,19 @@
 
 <p align="center">
   <a href="https://github.com/clydedc/0xCTF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=0xCTF&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=clydedc&repo=0xCTF&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/clydedc/lfi-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=lfi-scanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=clydedc&repo=lfi-scanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/clydedc/OpenSpy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=OpenSpy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=clydedc&repo=OpenSpy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/clydedc/rankbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clydedc&repo=rankbot&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=clydedc&repo=rankbot&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
