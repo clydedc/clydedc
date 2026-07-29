@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://osinthub.site/Clyde_kig_kagenou.png" alt="Banner" width="100%" />
+  <img src="https://cdn.discordapp.com/attachments/1470403758746767392/1531987254992703488/Clyde_kig_kagenou.png?ex=6a6b35d0&is=6a69e450&hm=313af469069a3779fb986872110823e47fdfe12fd5e6d838f5f1872831adf41b" alt="Banner" width="100%" />
 </h1>
 
 <p align="center">
   <strong>Fullstack Developer & Cybersecurity Enthusiast</strong><br>
-  Building tools, hunting vulnerabilities, breaking things to understand them.
+  Building tools, hunting vulnerabilities, and breaking things to understand how they work.
 </p>
 
 <p align="center">
@@ -13,25 +13,26 @@
   <a href="https://youtube.com/channel/UC4vJgHvruxP7fq-Fyoegz3A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
 
----
+<br>
 
-### About
+## About Me
 
-- Building [**RootSec**](https://github.com/0xRootSec) — a CTF platform with ELO ranking, challenges, and community features.
-- Created [**LFI Scanner**](https://github.com/clydedc/lfi-scanner) — an automated Local File Inclusion vulnerability scanner.
-- Interested in offensive security, web exploitation, CTFs, and bug bounty.
+- 🔐 Building [**RootSec**](https://github.com/0xRootSec) — a CTF platform featuring ELO ranking, challenges, and community tools.
+- 🛠️ Creator of [**LFI Scanner**](https://github.com/clydedc/lfi-scanner) — an automated Local File Inclusion vulnerability scanner.
+- 🎯 Focused on offensive security, web exploitation, CTFs, and bug bounty hunting.
+- 🌱 Always learning, always breaking (things), always fixing them better.
 
----
+<br>
 
-### Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,html,css,tailwind,mongodb,mysql,docker,git,linux,bash" />
 </p>
 
----
+<br>
 
-### Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clydedc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
@@ -42,9 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clydedc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
----
+<br>
 
-### Pinned
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/clydedc/0xCTF">
@@ -64,7 +65,7 @@
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/clydedc?style=flat-square&color=181717&logo=github&label=Followers" />
